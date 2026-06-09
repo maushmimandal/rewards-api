@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: rewards-api
+  jackson:
+    date-format: yyyy-MM-dd
+    serialization:
+      write-dates-as-timestamps: false
+
+logging:
+  level:
+    com.charter.rewards: DEBUG
