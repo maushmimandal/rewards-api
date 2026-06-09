@@ -211,3 +211,8 @@ The built-in dataset has 3 customers, each with 6 transactions spread across 3 m
 - No database used, everything runs in memory
 - Months are never hardcoded, always derived from LocalDate.now()
 - The POST endpoint lets you test with any custom data you want
+
+## UT
+
+<img width="877" height="827" alt="image" src="https://github.com/user-attachments/assets/ecccf455-dd0e-4e69-b439-79caf2b4134f" />
+
